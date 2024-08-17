@@ -1,2 +1,3 @@
 # learning-github
-this is my first time in Git Repository
+this is my first time in Git Repository.
+Author - Viswa
